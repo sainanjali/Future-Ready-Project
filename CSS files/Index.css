@@ -22,7 +22,7 @@
 #home::before{
     content: "";
     background: url('/photos/bg.jpg') no-repeat center center/cover;
-    
+    background-color: #8fc7c0;
     position: absolute;
     height: 100%;
     width: 100%;
